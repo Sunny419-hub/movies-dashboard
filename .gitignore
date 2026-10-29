@@ -1,0 +1,16 @@
+# Credenciales (NUNCA subir)
+.streamlit/secrets.toml
+*.json
+
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
