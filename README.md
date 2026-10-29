@@ -1,4 +1,4 @@
-# 🎬 Dashboard de filmes
+# Dashboard de filmes
 
 Reto Tecnológico de Monterrey: dashboard interactivo con **Streamlit**, **Firebase Firestore** (películas) y **PostgreSQL en Aiven** (libro de visitas), desplegado en **Streamlit Community Cloud**.
 
